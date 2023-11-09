@@ -7,3 +7,4 @@
 5. In left menu: GitHub
 6. At prompt "Enter a GitHub URL or search by organization or user": ErikMayerPSU/IntroductionAI
 7. Click on Intro_AI_Classifier_2023_1108_p0435.ipynb
+8. In top menu: File > Save a copy in Drive
